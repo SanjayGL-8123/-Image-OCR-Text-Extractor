@@ -14,9 +14,9 @@ from PIL import Image
 
 # ---------- SETTINGS ----------
 IMAGE_FOLDERS = [
-    r"C:\Users\Sanjay G L\Music\photo\NOTRS",
+    r"C:\Users\\Music\photo\NOTRS",
 ]
-OUTPUT_FILE = r"C:\Users\Sanjay G L\Music\photo\all_image_text.txt"
+OUTPUT_FILE = r"C:\Users\\Music\photo\all_image_text.txt"
 TESSERACT_PATH = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # Leave empty [] to save the text of ALL images.
